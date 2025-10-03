@@ -1,6 +1,9 @@
 const express = require('express');
 const router = express.Router();
 
+const pacientesRoutes = require('./pacientesRoutes');
+
+router.use('/pacientes', pacientesRoutes);
 // const exampleRouter = require('./exampleRouter');
 
 // router.use('/example', exampleRouter);
