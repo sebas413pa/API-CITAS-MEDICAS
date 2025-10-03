@@ -11,8 +11,6 @@ router.use('/citas', citasRoutes);
 
 // router.use('/example', exampleRouter);
 
-const medicosRoutes = require('./medicosRoutes');
-
 router.use('/bonos', bonosRoutes);
 router.use('/medicos', medicosRoutes);
 
