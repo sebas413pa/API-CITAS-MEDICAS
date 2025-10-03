@@ -1,9 +1,10 @@
 const express = require('express');
 const router = express.Router();
+const bonosRoutes = require('./bonosRoutes')
 
-// const exampleRouter = require('./exampleRouter');
 
-// router.use('/example', exampleRouter);
+
+router.use('/bonos', bonosRoutes);
 
 
 router.get('/', (req, res) => {
