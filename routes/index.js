@@ -3,6 +3,7 @@ const router = express.Router();
 const bonosRoutes = require('./bonosRoutes')
 const pacientesRoutes = require('./pacientesRoutes');
 const citasRoutes = require('./citasRoutes')
+const medicosRoutes = require('./medicosRoutes')
 
 router.use('/pacientes', pacientesRoutes);
 router.use('/citas', citasRoutes);
