@@ -5,6 +5,10 @@ const router = express.Router();
 
 // router.use('/example', exampleRouter);
 
+const medicosRoutes = require('./medicosRoutes');
+
+router.use('/medicos', medicosRoutes);
+
 
 router.get('/', (req, res) => {
   res.send('API CORRIENDO');
