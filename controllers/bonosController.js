@@ -61,7 +61,7 @@ module.exports = {
 
                 const newBono = await Bono.create({
                     medicos_id_medico: medicos_id_medico,
-                    monto: 100,                        
+                    monto: 500,                        
                     cantidad_pacientes: pacientes_count,
                     periodo_inicio: monday,            
                     periodo_final: endDate
