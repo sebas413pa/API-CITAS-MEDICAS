@@ -57,8 +57,8 @@ CREATE TABLE IF NOT EXISTS `clinicas_csj`.`citas` (
   `id_cita` INT NOT NULL AUTO_INCREMENT,
   `fecha` DATE NOT NULL,
   `descripcion` MEDIUMTEXT NULL,
-  `tipo` ENUM("primera", "reconsulta") NOT NULL DEFAULT 'primera',
-  `estado` ENUM("pendiente", "cancelada", "completada") NULL DEFAULT 'pendiente',
+  `tipo` ENUM('primera', 'reconsulta') NOT NULL DEFAULT 'primera',
+  `estado` ENUM('pendiente', 'cancelada', 'completada') NULL DEFAULT 'pendiente',
   `createdAt` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
   `updatedAt` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
   `medicos_id_medico` INT NOT NULL,
@@ -81,8 +81,8 @@ CREATE TABLE IF NOT EXISTS `clinicas_csj`.`citas` (
   CONSTRAINT `fk_citas_citas1`
     FOREIGN KEY (`cita_inicial`)
     REFERENCES `clinicas_csj`.`citas` (`id_cita`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE SET NULL
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
