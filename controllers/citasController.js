@@ -215,5 +215,30 @@ module.exports = {
                 data: error
             });
         }
+    },
+
+    async cambiarEstado(req, res) {
+        const nuevoEstado = req.params.nuevoEstado;
+        const idCita = req.params.idCita;
+        try
+        {
+            const citaActualizada = await Cita.update({estado: nuevoEstado},{
+                where:{
+                    id_cita:idCita
+                }
+            })
+            res.status(200).json({
+                success: true,
+                mensaje: "Cita actualizada"
+            });
+        }
+        catch(error)
+        {
+            res.status(500).json({
+                success: false,
+                mensaje: "Hubo un error",
+                data: error
+            });
+        }
     }
 }

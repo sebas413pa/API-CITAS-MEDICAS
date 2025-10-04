@@ -1,0 +1,1621 @@
+[
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 3,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 6,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 7,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 8,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 10,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 11,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 12,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 13,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 14,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 15,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 16,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 17,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 18,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 19,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 20,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 21,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 22,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 23,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 24,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 25,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 26,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 27,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 28,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 29,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 30,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 31,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 32,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 33,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 34,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 35,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 36,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 37,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 38,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 39,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 40,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 41,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 42,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 43,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 44,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 45,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 46,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 47,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 48,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 49,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 50,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 51,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 62,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 70,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 76,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 8,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 6,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 3,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 8,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 6,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 3,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 8,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 6,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 3,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 8,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 6,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 3,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 8,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 6,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 3,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 8,
+    "cita_inicial": null
+  },{
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 6,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 3,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 8,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-05",
+    "descripcion": "Consulta inicial por dolor de pecho",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-06",
+    "descripcion": "Reconsulta para seguimiento cardiológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 2,
+    "cita_inicial": 1
+  },
+  {
+    "fecha": "2025-10-07",
+    "descripcion": "Chequeo pediátrico de rutina",
+    "tipo": "primera",
+    "estado": "completada",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-08",
+    "descripcion": "Seguimiento en pediatría",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 5,
+    "cita_inicial": 3
+  },
+  {
+    "fecha": "2025-10-09",
+    "descripcion": "Evaluación por migrañas frecuentes",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 6,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-11",
+    "descripcion": "Control ortopédico tras fractura",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 1,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-12",
+    "descripcion": "Consulta ginecológica anual",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-13",
+    "descripcion": "Seguimiento ginecológico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 4,
+    "cita_inicial": 8
+  },
+  {
+    "fecha": "2025-10-14",
+    "descripcion": "Consulta por sospecha de tumor",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 3,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-15",
+    "descripcion": "Sesión de control psiquiátrico",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": null
+  },
+  {
+    "fecha": "2025-10-16",
+    "descripcion": "Terapia de seguimiento psiquiátrico",
+    "tipo": "reconsulta",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 9,
+    "cita_inicial": 11
+  },
+  {
+    "fecha": "2025-10-17",
+    "descripcion": "Chequeo general en medicina interna",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "medicos_id_medico": 1,
+    "pacientes_id_paciente": 8,
+    "cita_inicial": null
+  }
+]
