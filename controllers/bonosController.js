@@ -1,10 +1,9 @@
 'use strict'
 const { models, sequelize} = require('../db');
 const { Op, fn, col } = require('sequelize');
-const citas = require('../models/citas');
 const Bono = models.bonos;
 const Medico = models.medicos;
-const Citas = models.citas;
+const Cita = models.citas;
 
 module.exports = {
     async listarBonos(req,res){
@@ -35,7 +34,7 @@ module.exports = {
             const endDate = new Date();
             endDate.setHours(23, 59, 59, 999);
 
-            const results = await Citas.findAll({
+            const results = await Cita.findAll({
             attributes: [
                 'medicos_id_medico',
                 [fn('COUNT', fn('DISTINCT', col('pacientes_id_paciente'))), 'pacientes_count']
